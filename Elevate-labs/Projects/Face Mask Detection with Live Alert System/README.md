@@ -29,6 +29,7 @@ Face Mask Detection with Live Alert System/
   └── experiements/data/
 ├── README.md # This file
 ├── Face_Mask_Detection_Report.pdf # Final 2-page report
+├── mask_detection_demo.mp4  # demo video of project
 </pre>  
 
 
