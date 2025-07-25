@@ -46,6 +46,10 @@ Face Mask Detection with Live Alert System/
    ```bash
    python realtime_mask_detection.py
 
+## 🎥 Demo Video
+
+*  [Click to Watch Video](https://github.com/NARUP0/Internship/blob/main/Elevate-labs/Projects/Face%20Mask%20Detection%20with%20Live%20Alert%20System/mask_detection_demo.mp4)
+
 
 ## 🙏 Acknowledgements
 * Dataset source: [GitHub - prajnasb/observations](https://github.com/prajnasb/observations)
